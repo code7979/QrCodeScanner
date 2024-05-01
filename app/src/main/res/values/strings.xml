@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">QrCodeScanner</string>
+    <string name="camera_permission_denied">Whoops! Without camera permission, we\'re unable to scan QR codes. Granting access ensures full functionality and convenience in using the feature. Go to app settings and allow the camera permission.</string>
+    <string name="should_show_message">Whoops!It is looks like you denied camera permission. Click allow and give us the green light to scan the qr code.</string>
+    <string name="go_to_app_setting">Go To App Setting</string>
+    <string name="copied_to_clipboard">Copied to Clipboard</string>
+    <string name="camera_access">Camera Access</string>
+    <string name="back_button">Back Button</string>
+    <string name="title_result_screen">Result</string>
+    <string name="copy_button">Copy Button</string>
+    <string name="allow">Allow</string>
+    <string name="copy">Copy</string>
+</resources>
